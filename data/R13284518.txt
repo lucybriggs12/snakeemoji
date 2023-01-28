@@ -1,0 +1,248 @@
+--------------------------------------------------------------------------------
+Codebook for Social Explorer report ID: R13284518
+--------------------------------------------------------------------------------
+
+Contents
+    - Table Summary
+    - Data Dictionary
+    - Citation and Use
+
+
+--------------------------------------------------------------------------------
+Table Summary
+--------------------------------------------------------------------------------
+ 
+Survey:           ACS 2011 (5-Year Estimates)
+Dataset:          Social Explorer Tables:  ACS 2011 (5-Year Estimates)
+Tables:
+
+      1. Housing Units by Vehicles Available
+         Universe:  Universe:  Occupied housing units
+         Name:      A10030
+         Variables:
+            A10030_001:   Occupied Housing Units:
+            A10030_002:      No Vehicle Available
+            A10030_003:      1 Vehicle Available
+            A10030_004:      2 Vehicles Available
+            A10030_005:      3 Vehicles Available
+            A10030_006:      4 Vehicles Available
+            A10030_007:      5 or More Vehicles Available
+
+
+
+
+
+Survey:           ACS 2011 (5-Year Estimates)
+Dataset:          American Community Survey Tables:  2007 -- 2011 (5-Year Estimates)
+Tables:
+
+      1. Tenure by Vehicles Available by Age of Householder
+         Universe:  Universe:  Occupied housing units
+         Name:      B25045
+         Variables:
+            B25045001:   Total
+            B25045002:      Owner Occupied
+            B25045003:         No Vehicle Available
+            B25045004:            Householder 15 to 34 Years
+            B25045005:            Householder 35 to 64 Years
+            B25045006:            Householder 65 Years and Over
+            B25045007:         1 or More Vehicles Available
+            B25045008:            Householder 15 to 34 Years
+            B25045009:            Householder 35 to 64 Years
+            B25045010:            Householder 65 Years and Over
+            B25045011:      Renter Occupied
+            B25045012:         No Vehicle Available
+            B25045013:            Householder 15 to 34 Years
+            B25045014:            Householder 35 to 64 Years
+            B25045015:            Householder 65 Years and Over
+            B25045016:         1 or More Vehicles Available
+            B25045017:            Householder 15 to 34 Years
+            B25045018:            Householder 35 to 64 Years
+            B25045019:            Householder 65 Years and Over
+
+
+      2. Tenure by Vehicles Available by Age of Householder
+         Universe:  Universe:  Occupied housing units
+         Name:      B25045_se
+         Variables:
+            B25045001s:   Std. Error: Total
+            B25045002s:      Std. Error: Owner Occupied
+            B25045003s:         Std. Error: No Vehicle Available
+            B25045004s:            Std. Error: Householder 15 to 34 Years
+            B25045005s:            Std. Error: Householder 35 to 64 Years
+            B25045006s:            Std. Error: Householder 65 Years and Over
+            B25045007s:         Std. Error: 1 or More Vehicles Available
+            B25045008s:            Std. Error: Householder 15 to 34 Years
+            B25045009s:            Std. Error: Householder 35 to 64 Years
+            B25045010s:            Std. Error: Householder 65 Years and Over
+            B25045011s:      Std. Error: Renter Occupied
+            B25045012s:         Std. Error: No Vehicle Available
+            B25045013s:            Std. Error: Householder 15 to 34 Years
+            B25045014s:            Std. Error: Householder 35 to 64 Years
+            B25045015s:            Std. Error: Householder 65 Years and Over
+            B25045016s:         Std. Error: 1 or More Vehicles Available
+            B25045017s:            Std. Error: Householder 15 to 34 Years
+            B25045018s:            Std. Error: Householder 35 to 64 Years
+            B25045019s:            Std. Error: Householder 65 Years and Over
+
+
+
+
+
+ 
+ 
+ 
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+ 
+Variables 
+      FIPS:           FIPS
+      NAME:           Name of Area
+      QName:          Qualifying Name
+      STUSAB:         State/U.S.-Abbreviation (USPS)
+      SUMLEV:         Summary Level
+      GEOCOMP:        Geographic Component
+      FILEID:         File Identification
+      LOGRECNO:       Logical Record Number
+      US:             US
+      REGION:         Region
+      DIVISION:       Division
+      STATECE:        State (Census Code)
+      STATE:          State (FIPS)
+      COUNTY:         County
+      COUSUB:         County Subdivision (FIPS)
+      PLACE:          Place (FIPS Code)
+      PLACESE:        Place (State FIPS + Place FIPS)
+      TRACT:          Census Tract
+      BLKGRP:         Block Group
+      CONCIT:         Consolidated City
+      AIANHH:         American Indian Area/Alaska Native Area/Hawaiian Home Land (Census)
+      AIANHHFP:       American Indian Area/Alaska Native Area/Hawaiian Home Land (FIPS)
+      AIHHTLI:        American Indian Trust Land/Hawaiian Home Land Indicator
+      AITSCE:         American Indian Tribal Subdivision (Census)
+      AITS:           American Indian Tribal Subdivision (FIPS)
+      ANRC:           Alaska Native Regional Corporation (FIPS)
+      CBSA:           Metropolitan and Micropolitan Statistical Area
+      CSA:            Combined Statistical Area
+      METDIV:         Metropolitan Division
+      MACC:           Metropolitan Area Central City
+      MEMI:           Metropolitan/Micropolitan Indicator Flag
+      NECTA:          New England City and Town Combined Statistical Area
+      CNECTA:         New England City and Town Area
+      NECTADIV:       New England City and Town Area Division
+      UA:             Urban Area
+      UACP:           Urban Area Central Place
+      CDCURR:         Current Congressional District ***
+      SLDU:           State Legislative District Upper
+      SLDL:           State Legislative District Lower
+      VTD:            Voting District
+      ZCTA3:          ZIP Code Tabulation Area (3-digit)
+      ZCTA5:          ZIP Code Tabulation Area (5-digit)
+      SUBMCD:         Subbarrio (FIPS)
+      SDELM:          School District (Elementary)
+      SDSEC:          School District (Secondary)
+      SDUNI:          School District (Unified)
+      UR:             Urban/Rural
+      PCI:            Principal City Indicator
+      TAZ:            Traffic Analysis Zone
+      UGA:            Urban Growth Area
+      PUMA5:          Public Use Microdata Area - 5% File
+      PUMA1:          Public Use Microdata Area - 1% File
+      GEOID:          Geographic Identifier
+      BTTR:           Tribal Tract
+      BTBG:           Tribal Block Group
+      AREALAND:       Area (Land)
+      AREAWATR:       Area (Water)
+      A10030_001:     Occupied Housing Units
+      A10030_002:     Occupied Housing Units: No Vehicle Available
+      A10030_003:     Occupied Housing Units: 1 Vehicle Available
+      A10030_004:     Occupied Housing Units: 2 Vehicles Available
+      A10030_005:     Occupied Housing Units: 3 Vehicles Available
+      A10030_006:     Occupied Housing Units: 4 Vehicles Available
+      A10030_007:     Occupied Housing Units: 5 or More Vehicles Available
+      PCT_A10030_002: % Occupied Housing Units: No Vehicle Available
+      PCT_A10030_003: % Occupied Housing Units: 1 Vehicle Available
+      PCT_A10030_004: % Occupied Housing Units: 2 Vehicles Available
+      PCT_A10030_005: % Occupied Housing Units: 3 Vehicles Available
+      PCT_A10030_006: % Occupied Housing Units: 4 Vehicles Available
+      PCT_A10030_007: % Occupied Housing Units: 5 or More Vehicles Available
+      B25045001:      Occupied Housing Units
+      B25045002:      Occupied Housing Units: Owner Occupied
+      B25045003:      Occupied Housing Units: Owner Occupied: No Vehicle Available
+      B25045004:      Occupied Housing Units: Owner Occupied: No Vehicle Available: Householder 15 to 34 Years
+      B25045005:      Occupied Housing Units: Owner Occupied: No Vehicle Available: Householder 35 to 64 Years
+      B25045006:      Occupied Housing Units: Owner Occupied: No Vehicle Available: Householder 65 Years and Over
+      B25045007:      Occupied Housing Units: Owner Occupied: 1 or More Vehicles Available
+      B25045008:      Occupied Housing Units: Owner Occupied: 1 or More Vehicles Available: Householder 15 to 34 Years
+      B25045009:      Occupied Housing Units: Owner Occupied: 1 or More Vehicles Available: Householder 35 to 64 Years
+      B25045010:      Occupied Housing Units: Owner Occupied: 1 or More Vehicles Available: Householder 65 Years and Over
+      B25045011:      Occupied Housing Units: Renter Occupied
+      B25045012:      Occupied Housing Units: Renter Occupied: No Vehicle Available
+      B25045013:      Occupied Housing Units: Renter Occupied: No Vehicle Available: Householder 15 to 34 Years
+      B25045014:      Occupied Housing Units: Renter Occupied: No Vehicle Available: Householder 35 to 64 Years
+      B25045015:      Occupied Housing Units: Renter Occupied: No Vehicle Available: Householder 65 Years and Over
+      B25045016:      Occupied Housing Units: Renter Occupied: 1 or More Vehicles Available
+      B25045017:      Occupied Housing Units: Renter Occupied: 1 or More Vehicles Available: Householder 15 to 34 Years
+      B25045018:      Occupied Housing Units: Renter Occupied: 1 or More Vehicles Available: Householder 35 to 64 Years
+      B25045019:      Occupied Housing Units: Renter Occupied: 1 or More Vehicles Available: Householder 65 Years and Over
+      B25045001s:     Std. Error: Occupied Housing Units
+      B25045002s:     Std. Error: Occupied Housing Units: Owner Occupied
+      B25045003s:     Std. Error: Occupied Housing Units: Owner Occupied: No Vehicle Available
+      B25045004s:     Std. Error: Occupied Housing Units: Owner Occupied: No Vehicle Available: Householder 15 to 34 Years
+      B25045005s:     Std. Error: Occupied Housing Units: Owner Occupied: No Vehicle Available: Householder 35 to 64 Years
+      B25045006s:     Std. Error: Occupied Housing Units: Owner Occupied: No Vehicle Available: Householder 65 Years and Over
+      B25045007s:     Std. Error: Occupied Housing Units: Owner Occupied: 1 or More Vehicles Available
+      B25045008s:     Std. Error: Occupied Housing Units: Owner Occupied: 1 or More Vehicles Available: Householder 15 to 34 Years
+      B25045009s:     Std. Error: Occupied Housing Units: Owner Occupied: 1 or More Vehicles Available: Householder 35 to 64 Years
+      B25045010s:     Std. Error: Occupied Housing Units: Owner Occupied: 1 or More Vehicles Available: Householder 65 Years and Over
+      B25045011s:     Std. Error: Occupied Housing Units: Renter Occupied
+      B25045012s:     Std. Error: Occupied Housing Units: Renter Occupied: No Vehicle Available
+      B25045013s:     Std. Error: Occupied Housing Units: Renter Occupied: No Vehicle Available: Householder 15 to 34 Years
+      B25045014s:     Std. Error: Occupied Housing Units: Renter Occupied: No Vehicle Available: Householder 35 to 64 Years
+      B25045015s:     Std. Error: Occupied Housing Units: Renter Occupied: No Vehicle Available: Householder 65 Years and Over
+      B25045016s:     Std. Error: Occupied Housing Units: Renter Occupied: 1 or More Vehicles Available
+      B25045017s:     Std. Error: Occupied Housing Units: Renter Occupied: 1 or More Vehicles Available: Householder 15 to 34 Years
+      B25045018s:     Std. Error: Occupied Housing Units: Renter Occupied: 1 or More Vehicles Available: Householder 35 to 64 Years
+      B25045019s:     Std. Error: Occupied Housing Units: Renter Occupied: 1 or More Vehicles Available: Householder 65 Years and Over
+      PCT_B25045002:  % Occupied Housing Units: Owner Occupied
+      PCT_B25045003:  % Occupied Housing Units: Owner Occupied: No Vehicle Available
+      PCT_B25045004:  % Occupied Housing Units: Owner Occupied: No Vehicle Available: Householder 15 to 34 Years
+      PCT_B25045005:  % Occupied Housing Units: Owner Occupied: No Vehicle Available: Householder 35 to 64 Years
+      PCT_B25045006:  % Occupied Housing Units: Owner Occupied: No Vehicle Available: Householder 65 Years and Over
+      PCT_B25045007:  % Occupied Housing Units: Owner Occupied: 1 or More Vehicles Available
+      PCT_B25045008:  % Occupied Housing Units: Owner Occupied: 1 or More Vehicles Available: Householder 15 to 34 Years
+      PCT_B25045009:  % Occupied Housing Units: Owner Occupied: 1 or More Vehicles Available: Householder 35 to 64 Years
+      PCT_B25045010:  % Occupied Housing Units: Owner Occupied: 1 or More Vehicles Available: Householder 65 Years and Over
+      PCT_B25045011:  % Occupied Housing Units: Renter Occupied
+      PCT_B25045012:  % Occupied Housing Units: Renter Occupied: No Vehicle Available
+      PCT_B25045013:  % Occupied Housing Units: Renter Occupied: No Vehicle Available: Householder 15 to 34 Years
+      PCT_B25045014:  % Occupied Housing Units: Renter Occupied: No Vehicle Available: Householder 35 to 64 Years
+      PCT_B25045015:  % Occupied Housing Units: Renter Occupied: No Vehicle Available: Householder 65 Years and Over
+      PCT_B25045016:  % Occupied Housing Units: Renter Occupied: 1 or More Vehicles Available
+      PCT_B25045017:  % Occupied Housing Units: Renter Occupied: 1 or More Vehicles Available: Householder 15 to 34 Years
+      PCT_B25045018:  % Occupied Housing Units: Renter Occupied: 1 or More Vehicles Available: Householder 35 to 64 Years
+      PCT_B25045019:  % Occupied Housing Units: Renter Occupied: 1 or More Vehicles Available: Householder 65 Years and Over
+
+
+
+
+--------------------------------------------------------------------------------
+Citation and Use of Data
+--------------------------------------------------------------------------------
+ 
+All persons are granted a limited license to use this documentation and the
+accompanying data, subject to the following conditions:
+
+* Publications and research reports employing the data
+  must cite it appropriately. The citation should include the following:
+
+	  www.socialexplorer.com
+	  New York City, NY: Social Explorer 2023
+
+
+* Citations should also include the URL for this report:
+
+    http://www.socialexplorer.com/pub/reportdata/HtmlResults.aspx?reportid=R13284518
+
+If you have any questions contact info@socialexplorer.com
