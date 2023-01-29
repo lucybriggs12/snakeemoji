@@ -14,7 +14,7 @@ We hope to explore how access to grocery stores varies across demographics and n
 Our analysis could help identify places where additional transit options are needed to increase equitable access to grocery stores through new Metro Micro services areas or additional bus routes. As the population of Los Angeles is rapidly increasing (and aging), mobility access to seniors will become increasingly vital. 
 
 
-##Spatial & Temporal Scope
+## Spatial & Temporal Scope
 We will be focusing our analysis on the city of Los Angeles using demographic data from the most recent census and the American Community Survey. We will also be conducting a spatial analysis on the available public transportation networks in the city. We are choosing to focus on the City of Los Angeles rather than the County to avoid having to find individual datasets for all of the smaller transit agencies in the county. Additionally, grocery stores data is available for the City of Los Angeles, and this dataset is more convenient for analysis than finding data for every other city in the County. 
 We will use census block data where possible due to the small scale of our analyses concerning walkability
 In our census indicators exploration, we will analyze age and car access variables over the course of time (2011-2021). Recent research has shown that California’s senior population is expected to grow rapidly in coming years, which will increase the urgency of providing equitable access to mobility for older adults
