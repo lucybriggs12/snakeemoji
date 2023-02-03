@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>North Hollywood/Burbank</name>
+    <description/>
+    <Style id="poly-F57C00-4000-61-normal">
+      <LineStyle>
+        <color>ff007cf5</color>
+        <width>4</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>3d007cf5</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <Style id="poly-F57C00-4000-61-highlight">
+      <LineStyle>
+        <color>ff007cf5</color>
+        <width>6</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>3d007cf5</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+    </Style>
+    <StyleMap id="poly-F57C00-4000-61">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-F57C00-4000-61-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-F57C00-4000-61-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>North Hollywood/Burbank</name>
+      <Placemark>
+        <name>North Hollywood/Burbank</name>
+        <description><![CDATA[description: <br>fid: 1<br>layer: NOHO_expansion<br>path: C:\Users\william.proctor\Desktop\Mapping\Noho Expansion\NOHO_expansion.gpkg|layername=NOHO_expansion]]></description>
+        <styleUrl>#poly-F57C00-4000-61</styleUrl>
+        <ExtendedData>
+          <Data name="description">
+            <value/>
+          </Data>
+          <Data name="fid">
+            <value>1</value>
+          </Data>
+          <Data name="layer">
+            <value>NOHO_expansion</value>
+          </Data>
+          <Data name="path">
+            <value>C:\Users\william.proctor\Desktop\Mapping\Noho Expansion\NOHO_expansion.gpkg|layername=NOHO_expansion</value>
+          </Data>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -118.340726,34.14307,0
+                -118.340325,34.145385,0
+                -118.333139,34.152326,0
+                -118.316782,34.155838,0
+                -118.312328,34.155632,0
+                -118.310276,34.161108,0
+                -118.311408,34.163395,0
+                -118.308025,34.166729,0
+                -118.297391,34.176536,0
+                -118.289924,34.183814,0
+                -118.31416,34.201456,0
+                -118.318465,34.197463,0
+                -118.318994,34.196629,0
+                -118.321682,34.194073,0
+                -118.323849,34.19205,0
+                -118.329105,34.191873,0
+                -118.338247,34.192227,0
+                -118.348207,34.192949,0
+                -118.348837,34.194114,0
+                -118.348897,34.19684,0
+                -118.354827,34.197178,0
+                -118.354617,34.193664,0
+                -118.361423,34.194951,0
+                -118.36177,34.194355,0
+                -118.370008,34.194227,0
+                -118.369775,34.215767,0
+                -118.388219,34.215908,0
+                -118.388562,34.172815,0
+                -118.396958,34.172784,0
+                -118.396939,34.149867,0
+                -118.370932,34.150132,0
+                -118.370867,34.147761,0
+                -118.36767,34.146597,0
+                -118.36398,34.146632,0
+                -118.362446,34.143916,0
+                -118.362322,34.143644,0
+                -118.361598,34.142376,0
+                -118.361622,34.141963,0
+                -118.363033,34.14054,0
+                -118.364432,34.139238,0
+                -118.363222,34.138259,0
+                -118.364213,34.13669,0
+                -118.362486,34.134884,0
+                -118.359396,34.133376,0
+                -118.353315,34.131065,0
+                -118.347288,34.127464,0
+                -118.344971,34.129508,0
+                -118.344022,34.131308,0
+                -118.342946,34.133096,0
+                -118.341936,34.13472,0
+                -118.341052,34.13649,0
+                -118.340568,34.140576,0
+                -118.340726,34.14307,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+          <innerBoundaryIs>
+            <LinearRing>
+              <tessellate>1</tessellate>
+              <coordinates>
+                -118.360357,34.140065,0
+                -118.361367,34.138873,0
+                -118.36206,34.137365,0
+                -118.360442,34.136234,0
+                -118.359615,34.135662,0
+                -118.358764,34.135224,0
+                -118.356258,34.134422,0
+                -118.353278,34.133874,0
+                -118.351819,34.133522,0
+                -118.349958,34.132816,0
+                -118.347987,34.130456,0
+                -118.347184,34.129848,0
+                -118.345941,34.13105,0
+                -118.344132,34.134057,0
+                -118.34266,34.136806,0
+                -118.342271,34.139895,0
+                -118.342313,34.141679,0
+                -118.34203,34.143314,0
+                -118.341502,34.145025,0
+                -118.352049,34.146242,0
+                -118.360952,34.144232,0
+                -118.360138,34.141902,0
+                -118.360357,34.140065,0
+              </coordinates>
+            </LinearRing>
+          </innerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
